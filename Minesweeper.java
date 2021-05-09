@@ -1,9 +1,6 @@
 
 /**
  * Linda Turkmen
- * 18120212003
- * BIL122 Lab 05
- * 23.04.2021
  * This program generates a minesweeper board
  */
 
